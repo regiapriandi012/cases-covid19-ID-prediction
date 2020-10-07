@@ -2,12 +2,19 @@
 predict an increase in Covid-19 cases per day in Indonesia
 
 pandemi telah melanda negeri kita tercinta indonesia hampir setengah tahun atau hampir enam bulan dengan dampak yang sangat signifikan bagi kehidupan masyarakat indonesia. hampir semua kegiatan sehari-hari kita berubah setelah pandemi ini melanda indonesia dan melanda seluruh belahan dunia.
+
 tak terkecuali bagi mahasiswa ataupun pelajar, dimasa pandemi ini mahasiswa dan pelajar menempuh kegiatan pendidikannya lewat daring atau dalam jaringan. bisa dikatakan menempuh pendidikan dengan daring yang terjadi saat ini sangatlah tidak efisien karena kualitas internet yang kurang baik dan kurang meleknnya mahasiswa atau pelajar terhadap teknologi informasi saat ini.
+
 bagi mahasiswa pasti sudah terbiasa dengan pengoprasian komputer, bagaimana dengan para pelajar, apalagi pelajar smp ataupun sma, sebagian atau sedikit dari mereka belum terbiasa dengan pengoprasian komputer. terpaksa mereka harus menggunakan smartphone mereka supaya dapat mengikuti pembelajaran secara daring.
+
 tetapi dalam pandemi yang sedang kita alami ini jangan membuat kita pantang menyerah dan jangan sampai kita merasa menyesal dengan adanya pandemi ini. semua kejadian baik atau buruk pasti ada hikmah nya, hikmahnya kita ambil dan jadikan pelajaran bagi kita.
-teknologi yang semakin maju, semakin banyak lagi hal-hal yang dapat kita pelajari di dunia ini, banyak sekali informasi-informasi penting atau pembelajaran yang sangat bermanfaat bagi kita contohnya adalah pembelajaran machine learning
+
+teknologi yang semakin maju, semakin banyak lagi hal-hal yang dapat kita pelajari di dunia ini, banyak sekali informasi-informasi penting atau pembelajaran yang sangat bermanfaat bagi kita contohnya adalah pembelajaran machine learning.
+
 machine learning merupakan pembelajaran algoritma komputer yang dapat dapat bekerja dengan sendirinya. contohnya memprediksi data dan mengklasifikasi data.
-kali ini kita akan mencoba memprediksi kenaikan kasus harian covid-19 indonesia meliputi seluruh provinsi di indonesia menggunakan penerapan machine learning berbasis bahasa pemograman python. data yang kita dapat yaitu data covid-19 indonesia dari https://www.kaggle.com/hendratno/covid19-indonesia
+kali ini kita akan mencoba memprediksi kenaikan kasus harian covid-19 indonesia meliputi seluruh provinsi di indonesia menggunakan penerapan machine learning berbasis bahasa pemograman python. 
+
+data yang kita dapat yaitu data covid-19 indonesia dari https://www.kaggle.com/hendratno/covid19-indonesia
 data tersebut berbasis csv, csv atau comma separated value merupakan sebuah format file yang berisi kumpulan data dengan pemisah koma.
 pertama-tama kita memanggil pustaka python yang kita butuhkan
 ```
